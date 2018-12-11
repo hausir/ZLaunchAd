@@ -6,7 +6,7 @@
 ZLaunchAd集成启动广告，支持`LaunchImage`和`LaunchScreen`，支持GIF，支持本地图片，支持视图过渡动画
 
 
-![image](https://github.com/MQZHot/ZLaunchAd/raw/master/Picture/pic0.gif) ![image](https://github.com/MQZHot/ZLaunchAd/raw/master/Picture/pic2.gif) ![image](https://github.com/MQZHot/ZLaunchAd/raw/master/Picture/pic3.gif) ![image](https://github.com/MQZHot/ZLaunchAd/raw/master/Picture/pic4.gif) ![image](https://github.com/MQZHot/ZLaunchAd/raw/master/Picture/pic5.gif) ![image](https://github.com/MQZHot/ZLaunchAd/raw/master/Picture/pic6.gif)
+![image](https://github.com/hausir/ZLaunchAd/raw/master/Picture/pic0.gif) ![image](https://github.com/hausir/ZLaunchAd/raw/master/Picture/pic2.gif) ![image](https://github.com/hausir/ZLaunchAd/raw/master/Picture/pic3.gif) ![image](https://github.com/hausir/ZLaunchAd/raw/master/Picture/pic4.gif) ![image](https://github.com/hausir/ZLaunchAd/raw/master/Picture/pic5.gif) ![image](https://github.com/hausir/ZLaunchAd/raw/master/Picture/pic6.gif)
 
 ### 功能
 - [x] 支持进入前台广告显示，设定时间间隔，进入后台后返回的时间大于间隔才进行显示
@@ -34,7 +34,7 @@ end
 #### Carthage
 
 ```ogdl
-github "MQZHot/ZLaunchAd"
+github "hausir/ZLaunchAd"
 ```
 
 ### 使用
@@ -69,10 +69,10 @@ ZLaunchAd.clearDiskCacheWithImageUrlArray(array)
 
 ### 联系
 
-* Email: mqz1228@163.com
+* Email: hausir@icloud.com
 
 ### LICENSE
 
-ZLaunchAd is released under the MIT license. See [LICENSE](https://github.com/MQZHot/ZLaunchAd/blob/master/LICENSE) for details.
+ZLaunchAd is released under the MIT license. See [LICENSE](https://github.com/hausir/ZLaunchAd/blob/master/LICENSE) for details.
 
 

@@ -154,6 +154,7 @@
 				TargetAttributes = {
 					D6EFD9C62008624D00BFC9D1 = {
 						CreatedOnToolsVersion = 9.1;
+						LastSwiftMigration = 1010;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -347,14 +348,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 47ZCN2V9UQ;
+				DEVELOPMENT_TEAM = 84386Y2DZZ;
 				INFOPLIST_FILE = ZLaunchAdObjc/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = MQZHot.ZLaunchAdObjc;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hausir.ZLaunchAdObjc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_INCLUDE_PATHS = "\"$(SRCROOT)/../ZLaunchAd/CCommonCrypto\"";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -364,14 +365,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 47ZCN2V9UQ;
+				DEVELOPMENT_TEAM = 84386Y2DZZ;
 				INFOPLIST_FILE = ZLaunchAdObjc/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = MQZHot.ZLaunchAdObjc;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hausir.ZLaunchAdObjc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_INCLUDE_PATHS = "\"$(SRCROOT)/../ZLaunchAd/CCommonCrypto\"";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
